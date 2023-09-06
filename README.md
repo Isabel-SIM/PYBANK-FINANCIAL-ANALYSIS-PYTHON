@@ -48,6 +48,3 @@ In the PyBank analysis, we aim to calculate the following financial metrics:
 4. Run the cells in the Jupyter Notebook to execute the PyBank analysis.
 
 5. The analysis results will be printed in the notebook and exported to a text file named financial_analysis.txt.
-  
-
-
